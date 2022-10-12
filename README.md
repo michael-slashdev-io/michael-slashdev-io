@@ -1,5 +1,7 @@
+https://github.com/mballard23/mballard23/issues/1#issue-1406075423
+
 - 👋 Hi, I’m Michael, I am the founder of slashdev.io
-- 🚀 Passionate about growth and technology
+- 🚀 We connect the best remote developers to fast growing companies in the US and UK
 
 
 Twitter: softwarexking Linkedin: mballard23 GitHub: mballard23
