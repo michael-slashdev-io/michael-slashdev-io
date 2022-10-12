@@ -1,6 +1,10 @@
 
 <img src=”https://user-images.githubusercontent.com/28057693/195335560-3b6afd49-1d13-4ba7-a9ac-1ae00ef9d260.png" alt=”my banner”>
+<p align=”center”>
 
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/28057693/195335560-3b6afd49-1d13-4ba7-a9ac-1ae00ef9d260.png" alt=”my banner”>
+
+</p>
 - 👋 Hi, I’m Michael, I am the founder of slashdev.io
 - 🚀 We connect the best remote developers to fast growing companies in the US and UK
 
