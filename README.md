@@ -5,8 +5,25 @@
 - 👋 Hi, I’m Michael, I am the founder of slashdev.io
 - 🚀 We connect the best remote developers to fast growing companies in the US and UK
 
+### 🤝 Connect with me:
 
-Twitter: softwarexking Linkedin: mballard23 GitHub: mballard23
+<a href="https://www.linkedin.com/in/mballard23/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Michael | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/slashdev.io"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Michael | Instagram" width="21px"/></a>
+<a href="https://medium.com/@michael.slashventures/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Michael | Medium" width="21px"/></a>
+</br>
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me @ info@slashdev.io
+
+## 🔭 I'm currently working on
+
+- YouTube Content Mastery
+- Scaling slashdev.io
+
+## 🌱 I'm currently learning
+
+- Design Mastery
+- NodeJS Learning
+- Learning Swedish
 
 <!---
 mballard23/mballard23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
