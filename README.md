@@ -7,9 +7,9 @@
 
 ### 🤝 Connect with me:
 
-https://www.linkedin.com/in/mballard23/
-https://instagram.com/slashdev.io
-https://medium.com/@michael.slashventures/"
+https://www.linkedin.com/in/mballard23/ <br><br>
+https://instagram.com/slashdev.io <br><br>
+https://medium.com/@michael.slashventures/ <br><br>
 https://www.youtube.com/channel/UCq9uJVmCMs5OYc0eZsFENbw
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me @ info@slashdev.io
