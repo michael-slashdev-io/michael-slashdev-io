@@ -7,10 +7,10 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mballard23/"></a>
-<a href="https://instagram.com/slashdev.io"></a>
-<a href="https://medium.com/@michael.slashventures/"></a>
-</br>
+https://www.linkedin.com/in/mballard23/
+https://instagram.com/slashdev.io
+https://medium.com/@michael.slashventures/"
+https://www.youtube.com/channel/UCq9uJVmCMs5OYc0eZsFENbw
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me @ info@slashdev.io
 
