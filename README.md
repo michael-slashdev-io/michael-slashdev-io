@@ -7,9 +7,9 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mballard23/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Michael | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/slashdev.io"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Michael | Instagram" width="21px"/></a>
-<a href="https://medium.com/@michael.slashventures/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Michael | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mballard23/"></a>
+<a href="https://instagram.com/slashdev.io"></a>
+<a href="https://medium.com/@michael.slashventures/"></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me @ info@slashdev.io
