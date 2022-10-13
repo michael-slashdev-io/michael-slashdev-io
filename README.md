@@ -7,10 +7,11 @@
 
 ### 🤝 Connect with me:
 
-https://www.linkedin.com/in/mballard23/ <br><br>
-https://instagram.com/slashdev.io <br><br>
-https://medium.com/@michael.slashventures/ <br><br>
-https://www.youtube.com/channel/UCq9uJVmCMs5OYc0eZsFENbw
+[LinkedIn](https://www.linkedin.com/in/mballard23/) <br>
+[Instagram](https://instagram.com/slashdev.io) <br>
+[Medium](https://medium.com/@michael.slashventures/) <br>
+[YouTube](https://www.youtube.com/channel/UCq9uJVmCMs5OYc0eZsFENbw)<br>
+[Twitter](https://twitter.com/softwarexking)
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me @ info@slashdev.io
 
