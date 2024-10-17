@@ -10,8 +10,8 @@
 [LinkedIn](https://www.linkedin.com/in/mballard23/) <br>
 [Instagram](https://instagram.com/slashdev.io) <br>
 [Medium](https://medium.com/@michael.slashventures/) <br>
-[YouTube](https://www.youtube.com/channel/UCq9uJVmCMs5OYc0eZsFENbw)<br>
-[Twitter](https://twitter.com/softwarexking)
+[YouTube](https://www.youtube.com/@slashdevhq)<br>
+[Twitter](https://x.com/slashdevhq)
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me @ info@slashdev.io
 
