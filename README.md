@@ -15,17 +15,6 @@
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me @ info@slashdev.io
 
-## 🔭 I'm currently working on
-
-- YouTube Content Mastery
-- Scaling slashdev.io
-
-## 🌱 I'm currently learning
-
-- Design Mastery
-- NodeJS Learning
-- Learning Swedish
-
 <!---
 mballard23/mballard23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
